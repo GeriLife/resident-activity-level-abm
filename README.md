@@ -58,14 +58,15 @@ E.g.
 
 (5)   If the agents have goals, what are their goals (describe by agent type)?
 
+- residents
+    - maintain a medium-high level of activity
 - activity facilitators
-    - ensure all residents have medium-high activity level
+    - ensure all residents maintain medium-high activity level
 
 
 (6)   In what kind of environment do these agents operate?
 
 Residents and activity facilitators operate in a skilled nursing environment.
-
 
 (7)   How do these agents interact with this environment?
 
@@ -73,7 +74,6 @@ Residents and activity facilitators move around the skilled nursing environment.
 
 
 (8)   If you had to ÒdiscretizeÓ the phenomenon into time steps, what events and in what order would occur during any one time step?
-
 
 - residents
     - move one increment in a (random) direction
